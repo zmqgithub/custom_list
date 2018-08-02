@@ -6,3 +6,5 @@ A new Styled List Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+![alt text](https://github.com/zmqgithub/custom_list/blob/master/styledlist.gif)
